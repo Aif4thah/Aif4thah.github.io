@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: aif4thah.github.io
+Token: 844c12304d077d436d3974696a3df7f488e025bd1ab0ff40b63d32a54ea1428b
